@@ -230,8 +230,8 @@
 }
 
 .about {
-  justify-content: space-between; 
   display: flex;
+  justify-content: space-between;
   margin: 0 0 181px 0;
 }
 
